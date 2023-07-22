@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ruanthow&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=F4FE2A&text_color=ffff&bg_color=0d1117" alt="Ruan Mendonça github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanthow&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
+  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ruanthow&theme=jolly&show_icons=true&hide_border=true" alt="Ruan Mendonça github stats"/> 
+  <img width="100%" height="288px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanthow&hide=html,scss,python&layout=donut&bg_color=291b3e&hide_border=true&title_color=f761d3&text_color=fff"/>
 </div>
 
 
