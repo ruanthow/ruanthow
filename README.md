@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7032F5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7032f5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7032F5&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Ruan+Mendon%C3%A7a;I'm+26+years+old;I'm+from+Brazil;I+Graduated+Information+System+;Be+Welcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f4fe2a&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Ruan+Mendon%C3%A7a;I'm+26+years+old;I'm+from+Brazil;I+Graduated+Information+System+;Be+Welcome)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruanthow&bg_color=0d1117&color=fff&line=7032F5&point=F4FE2A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -41,4 +41,4 @@
   <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7032F5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7032f5&height=120&section=footer"/>
